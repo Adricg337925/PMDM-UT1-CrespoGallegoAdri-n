@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">PMDM UT1</string>
-    <string name="titulo">Aplicación de ejemplo</string>
-    <string name="subtitulo">Programación Multimedia y Dispositivos Móviles</string>
-    <string name="descripcion">Proyecto base para analizar la estructura de una aplicación Android.</string>
+    <string name="app_name">UT1 - Adrián Crespo</string>
+    <string name="titulo">Mi primera aplicación Android</string>
+    <string name="subtitulo">Aprendiendo a desarrollar aplicaciones móviles</string>
+    <string name="descripcion">Adrián Crespo Gallego</string>
+    <string name="frase">Programación y desarrollo de aplicaciones móviles.</string>
 </resources>
